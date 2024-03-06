@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // Function to display  Tic Tac Toe
+// tictactoe game
 void displayBoard(char board[3][3]) {
     printf("Tic Tac Toe\n");
     int i,j;
