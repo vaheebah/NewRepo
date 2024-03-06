@@ -14,7 +14,7 @@ void getmatrixelements(int matrix[][10], int rows, int cols)
         }
 }
 
-
+//multiplying matrices
 void multiplymatrices(int firstMatrix[][10], int secondMatrix[][10], int result[][10], int rows1, int cols1, int rows2, int cols2)
 {
 
